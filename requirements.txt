@@ -1,0 +1,11 @@
+aiogram
+future
+requests
+psycopg2
+bs4
+certifi
+urllib3
+requests
+pandas
+pytz
+user_agent
